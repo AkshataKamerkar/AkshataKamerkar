@@ -13,7 +13,7 @@ A third-year Engineering Student specializing in Artificial Intelligence and Dat
 
 
   - 🔭 I’m currently working on **Project SafetyNXT**
-  - 🌱 I’m currently learning **Data Science, Advance Django**
+  - 🌱 I’m currently learning **Data Science, Advance PHP and Django**
   - 👯 I’m looking to collaborate on **An end-to-end Django + ML Project**
   - 🤔 I’m looking for help with **WebScraping**
   - 💬 Ask me about **DATA**
