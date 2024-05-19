@@ -3,9 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akshata+Kamerkar!;" />
 </h1>
 
-<h3 align="center"><strong>Tech Enthusiast from India</strong></h3>
-<br>
-<br>
+<h2 align="center"><strong>Tech Enthusiast from India</strong></h2>
+
+
+### About Me 
+A third-year Engineering Student specializing in Artificial Intelligence and Data Science. I am passionate about technology and have developed strong proficiency in SQL, Python, and mathematics. I enjoy exploring new tech innovations and applying my skills to solve complex problems. I'm energitc, and geeky individual whose desire to learn is endless.
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
