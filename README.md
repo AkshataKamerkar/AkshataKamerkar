@@ -28,7 +28,7 @@ A third-year Engineering Student specializing in Artificial Intelligence and Dat
 <br>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,r,django,flask,mysql,sqlite,mongodb,pytorch,sklearn,tensorflow,html,css,bootstrap,tailwind,js,opencv,linux,anaconda,github,vscode,pycharm" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,r,django,flask,mysql,sqlite,mongodb,pytorch,sklearn,tensorflow,html,css,bootstrap,tailwind,js,opencv,linux,anaconda,github,vscode,pycharm,gitlab,snowflake" />
 </div>
 <br>
 <br>
