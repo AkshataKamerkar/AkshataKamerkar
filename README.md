@@ -7,7 +7,7 @@
 
 
 ### About Me 
-A third-year Engineering Student specializing in Artificial Intelligence and Data Science. I am passionate about technology and have developed strong proficiency in SQL, Python, and mathematics. I enjoy exploring new tech innovations and applying my skills to solve complex problems. I'm energitc, and geeky individual whose desire to learn is endless.
+A final-year Engineering Student specializing in Artificial Intelligence and Data Science. I am passionate about technology and have developed strong proficiency in SQL, Python, and mathematics. I enjoy exploring new tech innovations and applying my skills to solve complex problems. I'm energitc, and geeky individual whose desire to learn is endless.
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
