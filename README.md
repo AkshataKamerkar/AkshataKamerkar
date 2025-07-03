@@ -13,8 +13,8 @@ A final-year Engineering Student specializing in Artificial Intelligence and Dat
 
 
   - 🔭 I’m currently working on **Project SafetyNXT**
-  - 🌱 I’m currently learning **Data Science and Django**
-  - 👯 I’m looking to collaborate on **An end-to-end Django + ML Project**
+  - 🌱 I’m currently learning **Data Science and GenAI**
+  - 👯 I’m looking to collaborate on **An end-to-end GenAI Systems**
   - 🤔 I’m looking for help with **WebScraping**
   - 💬 Ask me about **DATA**
   - 📫 How to reach me: **akshatakamerkar8@gmail.com**
@@ -28,7 +28,7 @@ A final-year Engineering Student specializing in Artificial Intelligence and Dat
 <br>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,r,django,flask,mysql,sqlite,mongodb,pytorch,sklearn,tensorflow,html,css,bootstrap,tailwind,js,opencv,linux,anaconda,github,vscode,pycharm,gitlab,snowflake" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,r,django,flask,mysql,sqlite,mongodb,pytorch,sklearn,tensorflow,html,css,bootstrap,tailwind,js,opencv,linux,anaconda,github,vscode,pycharm,gitlab,snowflake,typescript,langchain,autogen,crewai" />
 </div>
 <br>
 <br>
