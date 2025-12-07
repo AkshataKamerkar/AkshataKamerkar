@@ -29,7 +29,7 @@ Always open to connecting with innovators building impactful AI systems or scali
 <br>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,r,django,flask,fastapi,aws,mysql,sqlite,mongodb,pytorch,sklearn,tensorflow,html,css,bootstrap,tailwind,js,opencv,linux,anaconda,github,vscode,pycharm,gitlab,typescript,langchain,autogen,crewai,gitlab,ai,githubactions,postman,gherkin" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,r,django,flask,fastapi,aws,mysql,sqlite,mongodb,pytorch,sklearn,tensorflow,html,css,bootstrap,tailwind,js,opencv,linux,anaconda,github,vscode,pycharm,gitlab,typescript,gitlab,ai,githubactions,postman,gherkin" />
 </div>
 <br>
 <br>
